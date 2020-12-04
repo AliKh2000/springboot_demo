@@ -8,6 +8,7 @@ import java.util.Random;
 
 @RestController
 @RequestMapping("/api/number")
+@CrossOrigin
 public class NumberController {
 
     /**
